@@ -28,29 +28,39 @@
 
 ## 👨‍💻 About Me
 
+## 👨‍💻 About Me
+
+Hi, I'm **Khalid Hasan** — a passionate **MERN Stack Developer** focused on building modern, responsive, and user-friendly web applications.
+
+javascript
 const khalid = {
-    name: "Khalid Hasan",
-    role: "MERN Stack Developer",
-    education: "Computer Science & Engineering",
-    
-   technologies: {
-        frontend: ["HTML", "CSS", "JavaScript", "React.js"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MongoDB"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
-    currentlyLearning: [
-        "Advanced React.js",
-        "REST API Development",
-        "Authentication & Authorization",
-        "Full-Stack Architecture"
-    ],
+  role: "MERN Stack Developer",
+  education: "Computer Science & Engineering",
 
-currentFocus: "Building real-world full-stack applications",
+  stack: {
+    frontend: ["HTML", "CSS", "JavaScript", "React.js"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+  },
 
- goal: "Become a professional Full-Stack Software Developer"
+  currentlyLearning: [
+    "Advanced React.js",
+    "REST API Development",
+    "Authentication & Authorization",
+    "Scalable Backend Development",
+  ],
+
+  interests: [
+    "Full-Stack Development",
+    "Software Engineering",
+    "AI / Machine Learning",
+    "Cybersecurity",
+  ],
+
+  currentGoal: "Build real-world applications and grow as a Software Developer",
+
+  mindset: "Learn → Build → Improve → Repeat 🚀"
 };
-
 
 <br>
 
