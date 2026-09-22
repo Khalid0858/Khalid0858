@@ -1,5 +1,4 @@
-````markdown
-<!-- ===================== HEADER ===================== -->
+
 
 <div align="center">
 
@@ -27,23 +26,19 @@
 
 <br>
 
-<!-- ===================== ABOUT ===================== -->
-
 ## 👨‍💻 About Me
 
-```javascript
 const khalid = {
     name: "Khalid Hasan",
     role: "MERN Stack Developer",
     education: "Computer Science & Engineering",
     
-    technologies: {
+   technologies: {
         frontend: ["HTML", "CSS", "JavaScript", "React.js"],
         backend: ["Node.js", "Express.js"],
         database: ["MongoDB"],
         tools: ["Git", "GitHub", "VS Code"]
     },
-
     currentlyLearning: [
         "Advanced React.js",
         "REST API Development",
@@ -51,11 +46,11 @@ const khalid = {
         "Full-Stack Architecture"
     ],
 
-    currentFocus: "Building real-world full-stack applications",
+currentFocus: "Building real-world full-stack applications",
 
-    goal: "Become a professional Full-Stack Software Developer"
+ goal: "Become a professional Full-Stack Software Developer"
 };
-````
+
 
 <br>
 
@@ -481,9 +476,3 @@ Every project is another step toward becoming a better developer.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:0EA5E9,100:0F172A"/>
 
-```
-
-এই version-এ আমি বিশেষ করে **header, project cards, MERN visualization, tech icons, GitHub activity graph, stats, learning roadmap এবং footer**—সবগুলো একই dark/cyan theme-এ রেখেছি, তাই পুরো profileটা আগেরটার চেয়ে অনেক বেশি cohesive দেখাবে।
-
-শুধু `YOUR_LINKEDIN_URL`, `YOUR_EMAIL_ADDRESS` এবং `YOUR_PORTFOLIO_URL` জায়গায় তোমার আসল তথ্য বসাতে হবে। তোমার original prompt-এও social link invent না করার requirement ছিল।
-```
