@@ -1,4 +1,4 @@
-````markdown
+
 <!-- ========================= HEADER ========================= -->
 
 <div align="center">
@@ -29,7 +29,7 @@ I'm **Khalid Hasan**, a Computer Science & Engineering student and aspiring **Fu
 
 I enjoy learning by building projects, experimenting with new technologies, and improving both frontend and backend development skills.
 
-```javascript
+
 const khalid = {
   role: "MERN Stack Developer",
   focus: "Full-Stack Web Development",
@@ -56,7 +56,7 @@ const khalid = {
 
   philosophy: "Learn → Build → Improve → Repeat"
 };
-````
+
 
 ---
 
