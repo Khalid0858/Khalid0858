@@ -1,192 +1,421 @@
+````markdown
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-# Hi 👋, I'm Khalid Hasan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=210&section=header&text=Khalid%20Hasan&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descSize=17&descAlignY=56&animation=fadeIn" width="100%" />
 
-### MERN Stack Developer | Full-Stack Web Developer | CSE Student
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Learning+by+building+real-world+projects;Turning+ideas+into+working+software" alt="Typing SVG" />
+</a>
 
-Building modern web applications and learning scalable full-stack development, one project at a time.
+<br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Node.js+Developer+%F0%9F%9F%A2;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" /></a>
+<a href="https://github.com/Khalid0858">
+<img src="https://img.shields.io/badge/GitHub-Khalid0858-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Khalid0858&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Khalid0858?label=FOLLOWERS&style=for-the-badge&color=22d3ee&labelColor=0f172a" alt="Followers" />
-<a href="https://github.com/Khalid0858"><img src="https://img.shields.io/badge/GITHUB-Khalid0858-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=Khalid0858&style=flat-square&color=0284C7&label=Profile+Views" />
+
+<img src="https://img.shields.io/github/followers/Khalid0858?style=flat-square&color=0891B2&label=Followers" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🔭 I'm currently working on **frontend and full-stack web development practice projects**
-- 🌱 I'm currently improving my **MERN Stack skills** (React.js, Node.js, Express.js, MongoDB)
-- 💻 I enjoy building real-world web interfaces and turning ideas into functional pages
-- 🧠 I'm interested in backend development, REST APIs, databases, and AI/ML
-- 🎯 My goal is to become a professional **Full-Stack Software Engineer**
-- 📚 I continuously learn new technologies and strengthen my problem-solving skills
-- ⚡ I'm moving from frontend practice projects toward complete MERN applications
+I'm **Khalid Hasan**, a Computer Science & Engineering student and aspiring **Full-Stack Developer** focused on the **MERN Stack**.
+
+I enjoy learning by building projects, experimenting with new technologies, and improving both frontend and backend development skills.
+
+```javascript
+const khalid = {
+  role: "MERN Stack Developer",
+  focus: "Full-Stack Web Development",
+
+  stack: {
+    frontend: ["HTML", "CSS", "JavaScript", "React.js"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"]
+  },
+
+  learning: [
+    "REST API Development",
+    "Authentication & Authorization",
+    "Backend Architecture",
+    "Modern React",
+    "Application Deployment"
+  ],
+
+  interests: [
+    "Software Engineering",
+    "AI & Machine Learning",
+    "Cybersecurity"
+  ],
+
+  philosophy: "Learn → Build → Improve → Repeat"
+};
+````
 
 ---
 
-## 🚀 What I'm Currently Focused On
+## ⚡ What I'm Focused On
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-Currently%20Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-Currently%20Learning-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-Currently%20Learning-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-Currently%20Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/REST%20APIs-Learning-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Authentication-Learning-EA5E9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-In%20Use-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Learning-2D3EEE?style=for-the-badge" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Development
+
+* Building full-stack web applications
+* Creating responsive user interfaces
+* Developing REST APIs
+* Working with MongoDB databases
+* Learning authentication systems
+* Improving application structure
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Growth
+
+* Advanced React.js
+* Node.js & Express.js
+* Database design
+* Git & GitHub workflow
+* Data Structures & Algorithms
+* Software engineering fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-### Backend & Database <sub>(currently learning)</sub>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+<br/>
+
+### Backend & Database
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp&theme=dark" />
+<br/>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+### Tools
 
----
-
-## ⚡ MERN Stack — Learning Path
-
-<div align="center">
-
-`MongoDB` &nbsp;→&nbsp; `Express.js` &nbsp;→&nbsp; `React.js` &nbsp;→&nbsp; `Node.js`
-
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-Backend%20Framework-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-Frontend%20Library-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-JS%20Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 MERN Stack
 
-### 🛒 Green Market
-> A shopping-style web project built while practicing JavaScript-driven UI interactions — includes a homepage, shop, login, and profile page with cart logic.
+<div align="center">
 
-**Tech:** HTML • CSS • JavaScript
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="55"/><br/>
+<b>MongoDB</b><br/>
+<sub>Database</sub>
+</td>
 
-**Status:** 🚧 Work in Progress
+<td align="center">
+<h2>+</h2>
+</td>
 
-[Repository](https://github.com/Khalid0858/green)
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="55"/><br/>
+<b>Express.js</b><br/>
+<sub>Backend</sub>
+</td>
+
+<td align="center">
+<h2>+</h2>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br/>
+<b>React.js</b><br/>
+<sub>Frontend</sub>
+</td>
+
+<td align="center">
+<h2>+</h2>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="55"/><br/>
+<b>Node.js</b><br/>
+<sub>Runtime</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 👨‍💻 Portfolio Practice
-> An early personal-portfolio page built while learning how to structure and lay out a portfolio site with HTML.
+## 🚀 Selected Projects
 
-**Tech:** HTML
+<table>
+<tr>
 
-**Status:** 🔨 In Development
+<td width="50%" valign="top">
 
-[Repository](https://github.com/Khalid0858/my-new-repo)
+### 🛒 Green
 
----
+A frontend shopping-based project where I practiced interactive web development concepts and JavaScript functionality.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+**Status**
+
+🚧 Work in Progress
+
+<br/>
+
+<a href="https://github.com/Khalid0858/green">
+<img src="https://img.shields.io/badge/Repository-View_Project-181717?style=flat-square&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎨 Practice of CSS
-> A learning-focused project for practicing CSS styling, layouts, and frontend structure across multiple pages.
 
-**Tech:** HTML • CSS
+A learning repository focused on improving CSS styling, layouts, and frontend fundamentals.
 
-**Status:** 📚 Learning Project
+**Tech**
 
-[Repository](https://github.com/Khalid0858/Practice-Of-CSS)
+`HTML` `CSS`
 
----
+**Status**
 
-### 📋 List & Form Web
-> A frontend practice project focused on HTML forms, lists, and basic page structure.
+📚 Learning Project
 
-**Tech:** HTML
+<br/>
 
-**Status:** 📚 Learning Project
+<a href="https://github.com/Khalid0858/Practice-Of-CSS">
+<img src="https://img.shields.io/badge/Repository-View_Project-181717?style=flat-square&logo=github" />
+</a>
 
-[Repository](https://github.com/Khalid0858/My-List-Form-web)
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📋 My List Form Web
+
+A frontend practice project created to understand forms, lists, webpage structure, and fundamental HTML concepts.
+
+**Tech**
+
+`HTML`
+
+**Status**
+
+📚 Learning Project
+
+<br/>
+
+<a href="https://github.com/Khalid0858/My-List-Form-web">
+<img src="https://img.shields.io/badge/Repository-View_Project-181717?style=flat-square&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👨‍💻 Portfolio Practice
+
+An early web development project created while learning how personal portfolio websites are structured.
+
+**Tech**
+
+`HTML`
+
+**Status**
+
+🔨 In Development
+
+<br/>
+
+<a href="https://github.com/Khalid0858/my-new-repo">
+<img src="https://img.shields.io/badge/Repository-View_Project-181717?style=flat-square&logo=github" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🚧 Currently Building
 
+I'm currently moving from smaller frontend projects toward complete **MERN Stack applications**.
 
+My current development roadmap:
 
-> New full-stack projects will be added here as they're built.
+```text
+Frontend
+   │
+   ├── JavaScript
+   │
+   └── React.js
+          │
+          ▼
+Backend
+   │
+   ├── Node.js
+   │
+   └── Express.js
+          │
+          ▼
+REST APIs
+          │
+          ▼
+MongoDB
+          │
+          ▼
+Authentication
+          │
+          ▼
+Full-Stack Applications
+          │
+          ▼
+Deployment
+```
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Advanced%20React.js-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REST%20API%20Development-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Authentication%20%26%20Authorization-EA5E9C?style=flat-square" />
-  <img src="https://img.shields.io/badge/-System%20Design%20Basics-64748B?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-64748B?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AI%20%2F%20Machine%20Learning-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-DC2626?style=flat-square" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-Advanced_Concepts-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-REST_API-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Database_Design-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-Problem_Solving-0369A1?style=flat-square" />
+<img src="https://img.shields.io/badge/System_Design-Fundamentals-0891B2?style=flat-square" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Khalid0858&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=0EA5E9&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid0858&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Khalid0858&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=38BDF8&text_color=94A3B8" />
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khalid0858&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Khalid0858&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE" />
+
+<img src="https://streak-stats.demolab.com?user=Khalid0858&theme=transparent&hide_border=true&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" />
+
 </div>
 
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid0858&bg_color=0D1117&color=22D3EE&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid0858&bg_color=transparent&color=94A3B8&line=22D3EE&point=38BDF8&area=true&area_color=0369A1&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" width="100%" />
+
 </div>
 
 ---
 
 ## 🎯 Goals
 
-| | |
-|---|---|
-| 💻 Build production-quality full-stack applications | ⚙️ Strengthen backend development skills |
-| 🧠 Improve DSA & problem-solving | 🏗️ Learn scalable software architecture |
-| 🌍 Contribute to open-source projects | 🚀 Prepare for software engineering opportunities |
+* Build complete production-style MERN applications
+* Strengthen backend and API development skills
+* Write cleaner and more maintainable code
+* Improve Data Structures & Algorithms
+* Learn scalable application architecture
+* Contribute to open-source projects
+* Gain professional software development experience
+
+---
+
+## 🧠 Beyond Web Development
+
+I'm also interested in exploring technologies beyond the MERN stack.
+
+```text
+🤖 Artificial Intelligence & Machine Learning
+🛡️ Cybersecurity
+🧠 Data Structures & Algorithms
+🏗️ Software Architecture
+☁️ Deployment & Cloud Technologies
+```
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Khalid0858"><img src="https://img.shields.io/badge/GitHub-Khalid0858-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<a href="https://github.com/Khalid0858">
+<img src="https://img.shields.io/badge/GitHub-Khalid0858-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0284C7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Always learning, always building. 🚀
+### `</> Keep Learning • Keep Building • Keep Improving`
+
+<br/>
+
+> **Turning ideas into code, one project at a time.**
+
+<br/>
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0369A1,100:0F172A&height=110&section=footer" width="100%" />
+
