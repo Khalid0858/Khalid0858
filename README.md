@@ -196,7 +196,7 @@ Build useful software that solves real-world problems
 
 <td width="50%" valign="top">
 
-### 🛒 Green
+### 🛒 Green Market 
 
 A shopping-based web development project created while practicing interactive frontend functionality and JavaScript.
 
@@ -218,7 +218,7 @@ A shopping-based web development project created while practicing interactive fr
 
 <td width="50%" valign="top">
 
-### 🎨 Practice of CSS
+### 🎨 MessMate
 
 A learning project focused on improving CSS styling, webpage layouts, and frontend fundamentals.
 
@@ -226,13 +226,13 @@ A learning project focused on improving CSS styling, webpage layouts, and fronte
 
 `HTML` `CSS`
 
-**Status**
+**Live_Site**
 
-📚 **Learning Project**
+📚 Messmate-two.vercel.app 
 
 <br/>
 
-<a href="https://github.com/Khalid0858/Practice-Of-CSS">
+<a href="https://github.com/Khalid0858/messmate">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
