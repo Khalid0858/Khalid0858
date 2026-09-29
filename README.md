@@ -224,7 +224,7 @@ A learning project focused on improving CSS styling, webpage layouts, and fronte
 
 **Tech**
 
-`HTML` `CSS`
+`HTML` `CSS` `Typescript ` `Mongo db ` `JavaScript `  `Tailwind Css `
 
 **Live_Site**
 
